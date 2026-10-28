@@ -1,2 +1,2 @@
 # CS61A
-records of starting to learn cs
+Records of starting to learn cs
